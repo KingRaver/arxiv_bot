@@ -1,0 +1,16 @@
+arxiv_bot/
+├── .env
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── bot.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── arxiv.py
+│       ├── nasa.py
+│       └── scraper.py
+└── tests/
+    ├── __init__.py
+    └── test_bot.py
